@@ -1,29 +1,3 @@
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Ran tool
-
-Read file: package.json
-
-Read file: index.html
-
-Read file: src/App.tsx
-
-Read file: src/pages/Dashboard.tsx
-
-Read file: src/pages/Chat.tsx
-
-Read file: src/pages/Roadmap.tsx
-
-Read file: src/components/Hero.tsx
-Here’s a comprehensive README for your project, based on the codebase and structure:
-
----
-
 # JobGPT – Transform Your Career Journey
 
 JobGPT is an intelligent career planning platform that transforms confusion into clarity with AI-powered guidance and immersive 3D roadmaps. It blends conversational AI mentorship with interactive visualizations to help users plan, track, and achieve their career goals.
@@ -122,7 +96,3 @@ public/
 ## License
 
 [MIT](LICENSE)
-
----
-
-Let me know if you want to include more details, such as contribution guidelines, deployment instructions, or API integration notes!
